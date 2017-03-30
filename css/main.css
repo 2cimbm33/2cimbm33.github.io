@@ -1,0 +1,27 @@
+body {
+  font-family: sans-serif; }
+
+#wrapper {
+  width: 500px;
+  margin: 10%  auto; }
+  #wrapper .door {
+    width: 33%;
+    float: left; }
+    #wrapper .door p {
+      width: 200px;
+      margin-left: 25%; }
+
+.question {
+  font-size: 30px;
+  color: red; }
+
+.large_number {
+  color: #645f5a;
+  font-size: 30px;
+  width: 33%;
+  float: left; }
+
+.img_selected {
+  border: 10px solid red; }
+
+/*# sourceMappingURL=main.css.map */
